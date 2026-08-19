@@ -1,5 +1,4 @@
-*Deployed App:** https://task-management-frontend-mu-bice.vercel.app/login
----
+
 
 ## Setup Instructions
 
